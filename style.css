@@ -27,3 +27,20 @@ box-shadow: 0 0 6px rgba(0,0,0, .5);
 }
 
 
+.box #btn{
+  cursor: pointer;
+color: white;
+background: rgb(117, 117, 241); 
+font-size: 24px;
+padding: 10px 15px;
+border-radius: 8px;
+}
+.box #btn:hover{
+  background:rgb(181, 130, 228);
+}
+
+
+
+
+
+
